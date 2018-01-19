@@ -11,5 +11,6 @@
     - terminal setup with git bash
     - Vetur for files .vue
   - https://slack.com
+  - https://github.com/toggl/toggldesktop/
 
 For show git branch in ConEmu => https://stackoverflow.com/questions/13497508/showing-git-branch-in-conemu#
