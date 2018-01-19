@@ -3,6 +3,7 @@
   - Windows 10 Home
   - https://chocolatey.org/
   - https://conemu.github.io/
+    - startup with git bash
   - https://git-scm.com
   - https://nodejs.org/en/
   - https://yarnpkg.com/en/docs/install
